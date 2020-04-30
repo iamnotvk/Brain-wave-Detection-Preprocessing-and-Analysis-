@@ -1,1 +1,1 @@
-# Brain-wave-Detection-Preprocessing-and-Analysis-
+# Brain-wave-Detection-Preprocessing-and-Analysis-using Python(MNE Package)
