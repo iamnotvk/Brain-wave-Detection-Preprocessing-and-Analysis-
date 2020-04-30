@@ -1,1 +1,2 @@
 # Brain-wave-Detection-Preprocessing-and-Analysis-using Python(MNE Package)
+Python is an extremely popular programming language for data analysis in general. In addition, the scientific Python community has created a striving ecosystem of neuroscience tools. A popular EEG toolbox is MNE, which offers almost anything required in an EEG processing pipeline. In this post, I show how to load EEG data sets and how to view associated meta information.
